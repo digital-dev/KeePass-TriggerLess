@@ -1,0 +1,7 @@
+D:\Travis\Downloads\KeePass-2.53.1-Source\Build\KeePassLib\Release\KeePassLib.xml
+D:\Travis\Downloads\KeePass-2.53.1-Source\Build\KeePassLib\Release\KeePassLib.dll
+D:\Travis\Downloads\KeePass-2.53.1-Source\Build\KeePassLib\Release\KeePassLib.pdb
+D:\Travis\Downloads\KeePass-2.53.1-Source\KeePassLib\obj\Release\KeePassLib.csproj.AssemblyReference.cache
+D:\Travis\Downloads\KeePass-2.53.1-Source\KeePassLib\obj\Release\KeePassLib.csproj.CoreCompileInputs.cache
+D:\Travis\Downloads\KeePass-2.53.1-Source\KeePassLib\obj\Release\KeePassLib.dll
+D:\Travis\Downloads\KeePass-2.53.1-Source\KeePassLib\obj\Release\KeePassLib.pdb

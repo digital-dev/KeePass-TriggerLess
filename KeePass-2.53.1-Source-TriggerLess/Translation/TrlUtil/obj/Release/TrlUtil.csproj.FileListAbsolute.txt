@@ -1,0 +1,10 @@
+D:\Travis\Downloads\KeePass-2.53.1-Source\Translation\TrlUtil\obj\Release\TrlUtil.csproj.AssemblyReference.cache
+D:\Travis\Downloads\KeePass-2.53.1-Source\Translation\TrlUtil\obj\Release\TrlUtil.MainForm.resources
+D:\Travis\Downloads\KeePass-2.53.1-Source\Translation\TrlUtil\obj\Release\TrlUtil.Properties.Resources.resources
+D:\Travis\Downloads\KeePass-2.53.1-Source\Translation\TrlUtil\obj\Release\TrlUtil.csproj.GenerateResource.cache
+D:\Travis\Downloads\KeePass-2.53.1-Source\Translation\TrlUtil\obj\Release\TrlUtil.csproj.CoreCompileInputs.cache
+D:\Travis\Downloads\KeePass-2.53.1-Source\Translation\TrlUtil\obj\Release\TrlUtil.csproj.CopyComplete
+D:\Travis\Downloads\KeePass-2.53.1-Source\Translation\TrlUtil\obj\Release\TrlUtil.exe
+D:\Travis\Downloads\KeePass-2.53.1-Source\Translation\TrlUtil\obj\Release\TrlUtil.pdb
+D:\Travis\Downloads\KeePass-2.53.1-Source\Translation\TrlUtil.exe
+D:\Travis\Downloads\KeePass-2.53.1-Source\Translation\TrlUtil.pdb
